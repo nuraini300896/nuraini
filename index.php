@@ -1,4 +1,4 @@
-<php
+<?php
 $sapa = "Halooooo";
 $pak = "pak";
 $dosen = "dosenku";
