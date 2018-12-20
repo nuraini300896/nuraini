@@ -1,3 +1,3 @@
 <?php
-echo "$sapa $pak $dosen";
+echo "Halo Sayang";
 ?>
