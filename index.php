@@ -1,4 +1,4 @@
 <?php
-echo "215 280 045";
+echo "<center>215 280 045";
 echo "<br> Nuraini";
 ?>
